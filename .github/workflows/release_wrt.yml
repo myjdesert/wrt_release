@@ -11,6 +11,7 @@ on:
         default: zn_m2_libwrt
         options:
           - zn_m2_immwrt
+          - zn_m2_libwrt
           
 
 env:
